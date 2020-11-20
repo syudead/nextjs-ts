@@ -16,6 +16,6 @@
     "@types/react": "^16.9.34",
     "@zeit/next-typescript": "^1.1.1",
     "sass": "^1.26.3",
-    "typescript": "^3.8.2"
+    "typescript": "^4.1.2"
   }
 }
